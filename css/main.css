@@ -371,59 +371,6 @@ width: 11px;
 
 
 /*============================================================
-    Yearone Bottom
-============================================================*/
-
-#Yearone-bottom {
-  background-color: #1f2021;
-  padding-bottom: 0;
-  position: relative;
-}
-
-.mobile-device {
-  position: relative;
-}
-
-.mobile-device img {
-  float: left;
-  position: relative;
-}
-
-.mobile-device .black {
-  left: 98px;
-  z-index: 2;
-}
-
-.mobile-device .white {
-  bottom: -62px;
-  z-index: 1;
-}
-
-.service-features {
-  background-color: #0f748f;
-  color: #fff;
-  height: 335px;
-  padding: 50px 0 50px 65px;
-  position: absolute;
-  right: 0;
-  top: 18%;
-  width: 45%;
-}
-
-.service-features h3 {
-  margin-bottom: 60px;
-  text-transform: uppercase;
-}
-
-.service-features ul li {
-  background: url("../img/icons/list-bg.png") no-repeat scroll 0 13px transparent;
-  font-size: 16px;
-  line-height: 36px;
-  padding-left: 50px;
-}
-
-
-/*============================================================
     Author
 ============================================================*/
 
