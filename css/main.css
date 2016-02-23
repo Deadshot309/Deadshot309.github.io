@@ -321,6 +321,11 @@ width: 11px;
     Yearone
 ============================================================*/
 
+#yearone{
+  border-style: dashed;
+  border-width: 5px;
+}
+
 #yearone .media > .pull-left{
     margin-right: 50px;
 }
