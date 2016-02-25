@@ -321,29 +321,29 @@ width: 11px;
     Yearone
 ============================================================*/
 
-#yearone{
+#Yearone{
   border-style: dashed;8
   border-width: 5px;
 }
 
-#yearone .media > .pull-left{
+#Yearone .media > .pull-left{
     margin-right: 50px;
 }
 
-#yearone .media .media-body h3{
+#Yearone .media .media-body h3{
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
 }
 
-#yearone .media .media-body p{
+#Yearone .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
 }
 
-#yearone .media{
+#Yearone .media{
     padding-bottom: 50px;
     padding-left: 20px;
 }
@@ -351,26 +351,26 @@ width: 11px;
 
 
 
-.yearone-item {
+.Yearone-item {
     margin-bottom: 30px;
 }
 
-.yearone-icon {
+.Yearone-icon {
   float: left;
   margin-top: 8px;
 }
 
-.yearone-desc {
+.Yearone-desc {
     margin-left: 115px;
 }
 
-.yearone-item h3 {
+.Yearone-item h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.yearone-item p {
+.Yearone-item p {
   line-height: 24px;
 }
 
@@ -379,50 +379,50 @@ width: 11px;
     Yeartwo
 ============================================================*/
 
-#service .media > .pull-left{
+#Yeartwo .media > .pull-left{
     margin-right: 50px;
 }
 
-#service .media .media-body h3{
+#Yeartwo .media .media-body h3{
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
 }
 
-#service .media .media-body p{
+#Yeartwo .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
 }
 
-#service .media{
+#Yeartwo .media{
     padding-bottom: 50px;
     padding-left: 20px;
 }
 
 
 
-.service-item {
+.Yeartwo-item {
     margin-bottom: 30px;
 }
 
-.service-icon {
+.Yeartwo-icon {
   float: left;
   margin-top: 8px;
 }
 
-.service-desc {
+.Yeartwo-desc {
     margin-left: 115px;
 }
 
-.service-item h3 {
+.Yeartwo-item h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.service-item p {
+.Yeartwo-item p {
   line-height: 24px;
 }
 
@@ -431,50 +431,50 @@ width: 11px;
     Yearthree
 ============================================================*/
 
-#service .media > .pull-left{
+#Yearthree .media > .pull-left{
     margin-right: 50px;
 }
 
-#service .media .media-body h3{
+#Yearthree .media .media-body h3{
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
 }
 
-#service .media .media-body p{
+#Yearthree .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
 }
 
-#service .media{
+#Yearthree .media{
     padding-bottom: 50px;
     padding-left: 20px;
 }
 
 
 
-.service-item {
+.Yearthree-item {
     margin-bottom: 30px;
 }
 
-.service-icon {
+.Yearthree-icon {
   float: left;
   margin-top: 8px;
 }
 
-.service-desc {
+.Yearthree-desc {
     margin-left: 115px;
 }
 
-.service-item h3 {
+.Yearthree h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.service-item p {
+.Yearthree p {
   line-height: 24px;
 }
 
@@ -483,50 +483,50 @@ width: 11px;
     Yearfour
 ============================================================*/
 
-#service .media > .pull-left{
+#Yearfour .media > .pull-left{
     margin-right: 50px;
 }
 
-#service .media .media-body h3{
+#Yearfour .media .media-body h3{
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
 }
 
-#service .media .media-body p{
+#Yearfour .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
 }
 
-#service .media{
+#Yearfour .media{
     padding-bottom: 50px;
     padding-left: 20px;
 }
 
 
 
-.service-item {
+.Yearfour-item {
     margin-bottom: 30px;
 }
 
-.service-icon {
+.Yearfour-icon {
   float: left;
   margin-top: 8px;
 }
 
-.service-desc {
+.Yearfour-desc {
     margin-left: 115px;
 }
 
-.service-item h3 {
+.Yearfour-item h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.service-item p {
+.Yearfour-item p {
   line-height: 24px;
 }
 
@@ -557,50 +557,50 @@ width: 11px;
     Yearfive
 ============================================================*/
 
-#service .media > .pull-left{
+#Yearfive .media > .pull-left{
     margin-right: 50px;
 }
 
-#service .media .media-body h3{
+#Yearfive .media .media-body h3{
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
 }
 
-#service .media .media-body p{
+#Yearfive .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
 }
 
-#service .media{
+#Yearfive .media{
     padding-bottom: 50px;
     padding-left: 20px;
 }
 
 
 
-.service-item {
+.Yearfive-item {
     margin-bottom: 30px;
 }
 
-.service-icon {
+.Yearfive-icon {
   float: left;
   margin-top: 8px;
 }
 
-.service-desc {
+.Yearfive-desc {
     margin-left: 115px;
 }
 
-.service-item h3 {
+.Yearfive-item h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.service-item p {
+.Yearfive-item p {
   line-height: 24px;
 }
 
@@ -701,50 +701,50 @@ width: 11px;
     Author
 ============================================================*/
 
-#service .media > .pull-left{
+#Author .media > .pull-left{
     margin-right: 50px;
 }
 
-#service .media .media-body h3{
+#Author .media .media-body h3{
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
 }
 
-#service .media .media-body p{
+#Author .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
 }
 
-#service .media{
+#Author .media{
     padding-bottom: 50px;
     padding-left: 20px;
 }
 
 
 
-.service-item {
+.Author-item {
     margin-bottom: 30px;
 }
 
-.service-icon {
+.Author-icon {
   float: left;
   margin-top: 8px;
 }
 
-.service-desc {
+.Author-desc {
     margin-left: 115px;
 }
 
-.service-item h3 {
+.Author-item h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.service-item p {
+.Author-item p {
   line-height: 24px;
 }
 
