@@ -334,7 +334,7 @@ width: 11px;
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 #Yearone .media .media-body p{
@@ -342,12 +342,12 @@ width: 11px;
     font-size: 13px;
     line-height: 24px;
     width: 300px;
-    height: 3500px;
+    height: 3550px;
 
 }
 
 #Yearone .media{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     padding-left: 20px;
 }
 
