@@ -261,7 +261,7 @@ width: 11px;
 }
 
 #home-carousel .carousel-inner h2 {
-  color: #ffffff;
+  color: #40E0D0;
   font-size: 30px;
   line-height: 50px;
   margin-bottom: 20px;
@@ -270,7 +270,7 @@ width: 11px;
 }
 
 #home-carousel .carousel-inner p {
-  color: #FFFFFF;
+  color: #40E0D0;
   line-height: 28px;
   font-size: 13px;
   margin-top: 0;
@@ -306,13 +306,13 @@ width: 11px;
 }
 
 #nav-arrows > a.sl-next:hover {
-    background-color: #009EE3;
-    border-color: #009EE3;
+    background-color: #547A77;
+    border-color: #547A77;
     color: #fff;
 }
 
 .carousel-indicators .active {
-  background-color: #00c7fc;
+  background-color: #547A77;
   border: 0;
 }
 
