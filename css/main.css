@@ -382,6 +382,11 @@ width: 11px;
     Yeartwo
 ============================================================*/
 
+#Yeartwo{
+  border-style: dashed;8
+  border-width: 5px;
+}
+
 #Yeartwo .media > .pull-left{
     margin-right: 50px;
 }
@@ -390,19 +395,23 @@ width: 11px;
     color: #00C7FC;
     font-weight: 400;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 #Yeartwo .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
+    width: 1050px;
+    height: 425px;
+
 }
 
 #Yeartwo .media{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     padding-left: 20px;
 }
+
 
 
 
@@ -415,7 +424,7 @@ width: 11px;
   margin-top: 8px;
 }
 
-.Yeartwo-desc {
+.Yearone-desc {
     margin-left: 115px;
 }
 
@@ -427,6 +436,7 @@ width: 11px;
 
 .Yeartwo-item p {
   line-height: 24px;
+}
 }
 
 
