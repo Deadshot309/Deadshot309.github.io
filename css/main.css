@@ -5,7 +5,7 @@
 
 body {
     background-color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'helvetica', sans-serif;
     line-height: 1;
 	font-size: 13px;
     color: #a8a8a8;
@@ -368,7 +368,7 @@ width: 11px;
 }
 
 .Yearone-item h3 {
-  color: #FF0000;
+  color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
@@ -429,7 +429,7 @@ width: 11px;
 }
 
 .Yeartwo-item h3 {
-  color: #0000FF;
+  color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
@@ -490,7 +490,7 @@ width: 11px;
 }
 
 .Yearthree-item h3 {
-  color: #FF0000;
+  color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
