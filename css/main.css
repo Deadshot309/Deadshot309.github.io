@@ -331,7 +331,7 @@ width: 11px;
 }
 
 #Yearone .media .media-body h3{
-    color: #00C7FC;
+    color:  #000000;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 5px;
@@ -392,7 +392,7 @@ width: 11px;
 }
 
 #Yeartwo .media .media-body h3{
-    color: #00C7FC;
+    color: #000000;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 5px;
@@ -437,34 +437,42 @@ width: 11px;
 .Yeartwo-item p {
   line-height: 24px;
 }
-}
 
 
 /*============================================================
     Yearthree
 ============================================================*/
 
+#Yearthree{
+  border-style: dashed;8
+  border-width: 5px;
+}
+
 #Yearthree .media > .pull-left{
     margin-right: 50px;
 }
 
 #Yearthree .media .media-body h3{
-    color: #00C7FC;
+    color: #000000;
     font-weight: 400;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 #Yearthree .media .media-body p{
     color: #A8A8A8;
     font-size: 13px;
     line-height: 24px;
+    width: 1050px;
+    
+
 }
 
 #Yearthree .media{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     padding-left: 20px;
 }
+
 
 
 
@@ -481,13 +489,13 @@ width: 11px;
     margin-left: 115px;
 }
 
-.Yearthree h3 {
+.Yearthree-item h3 {
   color: #00c7fc;
   font-size: 20px;
   margin-bottom: 28px;
 }
 
-.Yearthree p {
+.Yearthree-item p {
   line-height: 24px;
 }
 
