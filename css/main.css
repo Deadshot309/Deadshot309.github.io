@@ -639,66 +639,6 @@ width: 11px;
   line-height: 24px;
 }
 
-/*=================================
-    Portfolio
-===================================*/
-
-#Portfolio{
-  border-style: dashed;8
-  border-width: 5px;
-}
-
-#Portfolio .media > .pull-left{
-    margin-right: 50px;
-}
-
-#Portfolio .media .media-body h3{
-    color: #000000;
-    font-weight: 400;
-    font-size: 20px;
-    margin-bottom: 5px;
-}
-
-#Portfolio .media .media-body p{
-    color: #000000;
-    font-size: 13px;
-    line-height: 24px;
-    width: 1050px;
-    
-
-}
-
-#Portfolio .media{
-    padding-bottom: 30px;
-    padding-left: 20px;
-}
-
-
-
-
-.Portfolio-item {
-    margin-bottom: 30px;
-}
-
-.Portfolio-icon {
-  float: left;
-  margin-top: 8px;
-}
-
-.Portfolio-desc {
-    margin-left: 115px;
-}
-
-.Portfolio-item h3 {
-  color: #00c7fc;
-  font-size: 20px;
-  margin-bottom: 28px;
-}
-
-.Portfolio-item p {
-  line-height: 24px;
-}
-
 
 /*============================================================
     Footer
