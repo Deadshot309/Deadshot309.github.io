@@ -12,7 +12,6 @@ $( document ).ready(function() {
   $("LeftBullet").hide();
   $("RightBullet").hide();
   $('#OnePoint').hide();
-  $(".bullet").hide();
   $(document).keydown(function(e) {
   $(mario).keydown;
   switch(e.which) {
@@ -73,6 +72,29 @@ $( document ).ready(function() {
   } 
 }); //key function end
 
+    animateDiv();
+
+function makeNewPosition(){
+    
+    // Get viewport dimensions (remove the dimension of the div)
+    var h = $(window).height() ;
+    var w = $(window).width() ;
+    
+    var nh = Math.floor(Math.random() * h);
+    var nw = Math.floor(Math.random() * w);
+    
+    return [nh,nw];    
+    
+}
+
+function animateDiv(){
+    var newq = makeNewPosition();
+  //James change .a to .othercar
+    $('#badone').animate({ top: newq[0], left: newq[1] }, function(){
+      animateDiv();        
+    });
+    
+};
   //this is where the JavaScript collision starts. First we define all the variables of how the collision will happen
   function collision($div1, $div2) {
     var x1 = $div1.offset().left;
@@ -137,5 +159,7 @@ $( document ).ready(function() {
       }
     });
   }, 200); //this is how often it checks for a collision
+
+
  
 });//document
